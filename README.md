@@ -1,1 +1,1 @@
-# Sample Mobile Framework
+# Trust Wallet Automation Framework Exercise
