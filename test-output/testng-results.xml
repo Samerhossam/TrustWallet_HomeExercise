@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-08T06:18:06 EET" name="Default suite" finished-at="2025-04-08T06:18:07 EET" duration-ms="483">
+    <groups>
+    </groups>
+    <test started-at="2025-04-08T06:18:06 EET" name="Default test" finished-at="2025-04-08T06:18:07 EET" duration-ms="483">
+      <class name="tests.CreateWalletTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CreateWalletTest@4f83df68]" started-at="2025-04-08T06:17:59 EET" name="setUp" finished-at="2025-04-08T06:18:06 EET" duration-ms="7092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TestCreateWalletButton()[pri:0, instance:tests.CreateWalletTest@4f83df68]" started-at="2025-04-08T06:18:07 EET" name="TestCreateWalletButton" finished-at="2025-04-08T06:18:07 EET" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCreateWalletButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CreateWalletTest@4f83df68]" started-at="2025-04-08T06:18:07 EET" name="tearDown" finished-at="2025-04-08T06:18:08 EET" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CreateWalletTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
